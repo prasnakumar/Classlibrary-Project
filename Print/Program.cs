@@ -9,6 +9,7 @@ namespace Print
         {
             DemoClass message = new DemoClass();
             message.display();
+            Console.ReadLine();
         }
     }
 }
